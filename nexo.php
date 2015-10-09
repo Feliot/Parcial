@@ -1,6 +1,6 @@
 <?php 
 require_once("clases/AccesoDatos.php");
-require_once("clases/cd.php");
+require_once("clases/Voto.php");
 
 $queHago=$_POST['queHacer'];
 
