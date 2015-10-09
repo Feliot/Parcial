@@ -3,8 +3,11 @@ class Voto
 {
 	public $id;
  	public $DNI;
-  	public $cantante;
-  	public $año;
+  	public $Presidenciables;
+  	public $Sexo;
+  	Public $Provincia;
+  	Public $Localidad;
+ 
 
   	public function BorrarVoto()
 	 {
